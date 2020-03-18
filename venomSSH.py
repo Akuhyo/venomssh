@@ -6,7 +6,7 @@
 # The way you use this tool is up to you, and you may use this
 # tool at your own risk however you'd like.
 #
-# If you happen to use this, make sure to leave credit.
+# If you happen to use this, thank you!
 
 import paramiko, sys, os, socket
 global host, username, line, input_file
